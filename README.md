@@ -1,6 +1,8 @@
 # JellyFishVision
 
-A PyTorch-Lightning pipeline for jellyfish species classification with CBAM, custom augmentations (underwater/beach effects).
+A PyTorch-Lightning pipeline for jellyfish species classification with CBAM, custom augmentations (underwater/beach effects). 
+
+Made in correlation with internship in INESC TEC with support of Instituto Português do Mar e da Atmosfera.
 
 ## Features
 
